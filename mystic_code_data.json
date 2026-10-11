@@ -14,12 +14,18 @@
         "detail": "味方単体のHPを大回復[{0}]",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
         "cooldown": 9,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980002,
@@ -28,12 +34,18 @@
         "detail": "味方単体の攻撃力を超アップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00300.png",
         "cooldown": 15,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980003,
@@ -42,12 +54,18 @@
         "detail": "味方単体に回避状態を付与(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00402.png",
         "cooldown": 15,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       }
     ]
   },
@@ -66,12 +84,18 @@
         "detail": "味方全体の攻撃力をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00300.png",
         "cooldown": 12,
-        "target": [
-          "TargetAll"
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980005,
@@ -80,12 +104,18 @@
         "detail": "敵単体にスタン状態を付与(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00508.png",
         "cooldown": 15,
-        "target": [
-          "TargetAll"
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980006,
@@ -94,12 +124,18 @@
         "detail": "バトル中のメンバーをサブメンバーと入れ替える",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00704.png",
         "cooldown": 15,
-        "target": [
-          "OrderChange"
+        "functions": [
+          {
+            "target": "OrderChange",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       }
     ]
   },
@@ -118,12 +154,18 @@
         "detail": "味方全体のHPを回復[{0}]",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
         "cooldown": 12,
-        "target": [
-          "TargetAll"
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980008,
@@ -132,12 +174,18 @@
         "detail": "味方単体のNPを増やす",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00601.png",
         "cooldown": 15,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980009,
@@ -146,12 +194,18 @@
         "detail": "コマンドカードを配り直す",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00703.png",
         "cooldown": 15,
-        "target": [
-          "TargetAll"
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       }
     ]
   },
@@ -170,12 +224,18 @@
         "detail": "味方単体に無敵状態を付与(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00403.png",
         "cooldown": 15,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980011,
@@ -184,12 +244,18 @@
         "detail": "味方単体の弱体状態を解除",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00608.png",
         "cooldown": 15,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980012,
@@ -198,12 +264,18 @@
         "detail": "味方単体のスキルチャージを2進める",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00609.png",
         "cooldown": 15,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       }
     ]
   },
@@ -222,12 +294,18 @@
         "detail": "味方単体のBusterカード性能を超アップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00306.png",
         "cooldown": 15,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980014,
@@ -236,12 +314,18 @@
         "detail": "スターを大量獲得[{0}]",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00603.png",
         "cooldown": 12,
-        "target": [
-          "TargetAll"
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980015,
@@ -250,12 +334,18 @@
         "detail": "味方単体にガッツ状態を付与[{0}](1回・1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00404.png",
         "cooldown": 15,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       }
     ]
   },
@@ -274,12 +364,18 @@
         "detail": "味方単体のQuickカード性能をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00304.png",
         "cooldown": 15,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980017,
@@ -288,12 +384,18 @@
         "detail": "味方単体のスター集中度をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00311.png",
         "cooldown": 12,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980018,
@@ -302,12 +404,18 @@
         "detail": "味方単体に必中状態を付与[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00310.png",
         "cooldown": 10,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       }
     ]
   },
@@ -326,12 +434,18 @@
         "detail": "味方全体のQuickカード性能をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00304.png",
         "cooldown": 15,
-        "target": [
-          "TargetAll"
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980020,
@@ -340,12 +454,18 @@
         "detail": "味方単体に無敵貫通状態を付与(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00312.png",
         "cooldown": 12,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980021,
@@ -354,12 +474,18 @@
         "detail": "味方単体のHPを回復[{0}]＆NPを増やす",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
         "cooldown": 12,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       }
     ]
   },
@@ -378,12 +504,18 @@
         "detail": "味方単体のArtsカード性能をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00305.png",
         "cooldown": 15,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980023,
@@ -392,12 +524,18 @@
         "detail": "味方単体のスター発生率をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00604.png",
         "cooldown": 12,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980024,
@@ -406,12 +544,18 @@
         "detail": "敵単体に強化無効状態(1回)を付与",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00521.png",
         "cooldown": 15,
-        "target": [
-          "TargetAll"
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       }
     ]
   },
@@ -430,12 +574,18 @@
         "detail": "味方全体のArtsカード性能をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00305.png",
         "cooldown": 15,
-        "target": [
-          "TargetAll"
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980026,
@@ -444,12 +594,18 @@
         "detail": "味方単体に弱体無効状態を付与(1回)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00411.png",
         "cooldown": 12,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980027,
@@ -458,12 +614,18 @@
         "detail": "敵単体のチャージを1減らす",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00513.png",
         "cooldown": 15,
-        "target": [
-          "TargetAll"
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       }
     ]
   },
@@ -482,12 +644,18 @@
         "detail": "味方単体の宝具威力をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00302.png",
         "cooldown": 12,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980029,
@@ -496,12 +664,18 @@
         "detail": "味方単体のBusterカードへのスター集中度をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00308.png",
         "cooldown": 12,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980030,
@@ -510,12 +684,18 @@
         "detail": "味方単体のNP獲得量をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00602.png",
         "cooldown": 12,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       }
     ]
   },
@@ -534,12 +714,18 @@
         "detail": "味方単体のHPを回復[{0}]＆防御弱体状態を解除",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
         "cooldown": 12,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980032,
@@ -548,12 +734,18 @@
         "detail": "味方単体の攻撃力をアップ[{0}](1ターン)＆宝具威力をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00300.png",
         "cooldown": 15,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980033,
@@ -562,12 +754,18 @@
         "detail": "味方単体に回避状態を付与(1回・3ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00402.png",
         "cooldown": 12,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       }
     ]
   },
@@ -586,12 +784,18 @@
         "detail": "味方単体のArtsカード性能をアップ[{0}](1ターン)＆宝具威力をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00305.png",
         "cooldown": 15,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980038,
@@ -600,12 +804,18 @@
         "detail": "味方単体のArtsカードへのスター集中度をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00309.png",
         "cooldown": 12,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980039,
@@ -614,12 +824,18 @@
         "detail": "味方単体の強化解除耐性をアップ[{0}](1ターン)＆NPを増やす",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00416.png",
         "cooldown": 12,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       }
     ]
   },
@@ -638,12 +854,18 @@
         "detail": "味方全体の宝具威力をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00302.png",
         "cooldown": 12,
-        "target": [
-          "TargetAll"
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980041,
@@ -652,12 +874,18 @@
         "detail": "味方単体のNPを増やす ＋ スターを獲得[{0}]",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00601.png",
         "cooldown": 12,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980042,
@@ -666,12 +894,18 @@
         "detail": "味方単体の最大HPをアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00412.png",
         "cooldown": 10,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       }
     ]
   },
@@ -690,12 +924,18 @@
         "detail": "味方単体の宝具威力をアップ[{0}](1ターン)＆攻撃弱体状態を解除",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00302.png",
         "cooldown": 15,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980062,
@@ -704,12 +944,18 @@
         "detail": "味方単体のクリティカル威力をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
         "cooldown": 12,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980063,
@@ -718,12 +964,18 @@
         "detail": "味方単体に回避状態を付与(1回・3ターン)＆HPを回復[{0}]",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00402.png",
         "cooldown": 15,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       }
     ]
   },
@@ -742,12 +994,18 @@
         "detail": "味方全体のBusterカード性能をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00306.png",
         "cooldown": 15,
-        "target": [
-          "TargetAll"
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980065,
@@ -756,12 +1014,18 @@
         "detail": "味方単体に毎ターンHP回復状態を付与[{0}](3ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00606.png",
         "cooldown": 12,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980066,
@@ -770,12 +1034,18 @@
         "detail": "味方単体のNPを増やす＆NP獲得量をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00601.png",
         "cooldown": 12,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       }
     ]
   },
@@ -794,12 +1064,18 @@
         "detail": "味方単体のQuickカード性能をアップ[{0}](1ターン)＆宝具威力をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00304.png",
         "cooldown": 15,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980068,
@@ -808,12 +1084,18 @@
         "detail": "味方全体のクリティカル威力をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
         "cooldown": 12,
-        "target": [
-          "TargetAll"
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980069,
@@ -822,12 +1104,18 @@
         "detail": "味方単体の毒・呪い・やけど状態を解除＆NPを増やす",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00608.png",
         "cooldown": 12,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       }
     ]
   },
@@ -846,12 +1134,18 @@
         "detail": "味方単体のBusterカード性能をアップ[{0}](1ターン)＆宝具威力をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00306.png",
         "cooldown": 15,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980071,
@@ -860,12 +1154,18 @@
         "detail": "味方単体に無敵状態を付与(2回・1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00403.png",
         "cooldown": 12,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980072,
@@ -874,12 +1174,18 @@
         "detail": "味方単体の行動不能状態・封印状態を解除＆NPを増やす",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00608.png",
         "cooldown": 12,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       }
     ]
   },
@@ -898,12 +1204,18 @@
         "detail": "味方全体の攻撃力をアップ[{0}](1ターン)＆宝具威力をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00300.png",
         "cooldown": 15,
-        "target": [
-          "TargetAll"
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980074,
@@ -912,12 +1224,18 @@
         "detail": "味方単体のHPを回復[{0}]＆攻撃弱体状態を解除",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
         "cooldown": 12,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980075,
@@ -926,12 +1244,18 @@
         "detail": "バトル中のメンバーをサブメンバーと入れ替える",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00704.png",
         "cooldown": 15,
-        "target": [
-          "OrderChange"
+        "functions": [
+          {
+            "target": "OrderChange",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       }
     ]
   },
@@ -950,12 +1274,18 @@
         "detail": "味方単体のBusterカード性能をアップ[{0}](1ターン)＆HPを回復[{0}]",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00306.png",
         "cooldown": 15,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980077,
@@ -964,12 +1294,18 @@
         "detail": "敵単体の即死耐性をダウン[{0}](1ターン) ＋ スターを獲得[{0}]",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00514.png",
         "cooldown": 12,
-        "target": [
-          "TargetAll"
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980078,
@@ -978,12 +1314,18 @@
         "detail": "味方単体の精神異常状態を解除＆NPを増やす",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00608.png",
         "cooldown": 12,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       }
     ]
   },
@@ -1002,12 +1344,18 @@
         "detail": "味方全体の宝具威力をアップ[{0}](1ターン)＆NP獲得量をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00302.png",
         "cooldown": 12,
-        "target": [
-          "TargetAll"
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980080,
@@ -1016,12 +1364,18 @@
         "detail": "味方単体に宝具使用時のチャージ段階を1段階引き上げる状態を付与(1ターン)＆NPを増やす",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00313.png",
         "cooldown": 12,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980081,
@@ -1030,12 +1384,18 @@
         "detail": "味方単体に弱体無効状態を付与(1回・3ターン) ＋ スターを獲得[{0}]",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00411.png",
         "cooldown": 12,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       }
     ]
   },
@@ -1054,12 +1414,18 @@
         "detail": "味方単体のArtsカード性能をアップ[{0}](1ターン)＆クリティカル威力をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00305.png",
         "cooldown": 12,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980083,
@@ -1068,12 +1434,18 @@
         "detail": "味方単体に回避状態を付与(1回・3ターン)＆NPを増やす",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00402.png",
         "cooldown": 15,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980084,
@@ -1082,12 +1454,18 @@
         "detail": "味方単体のArtsカードへのスター集中度をアップ[{0}](1ターン)＆NPを増やす",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00309.png",
         "cooldown": 15,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       }
     ]
   },
@@ -1106,12 +1484,18 @@
         "detail": "味方単体の宝具威力をアップ[{0}](1ターン)＆NP獲得量をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00302.png",
         "cooldown": 15,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980086,
@@ -1120,12 +1504,18 @@
         "detail": "味方単体のHPを回復[{0}]＆毒・呪い・やけど状態を解除",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
         "cooldown": 12,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980087,
@@ -1134,12 +1524,18 @@
         "detail": "スターを獲得[{0}] ＋ 味方全体のNPを少し増やす",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00603.png",
         "cooldown": 9,
-        "target": [
-          "TargetAll"
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       }
     ]
   },
@@ -1158,12 +1554,18 @@
         "detail": "味方全体のArtsカード性能をアップ[{0}](1ターン)＆Busterカード性能をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00315.png",
         "cooldown": 15,
-        "target": [
-          "TargetAll"
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980089,
@@ -1172,12 +1574,18 @@
         "detail": "味方単体のスター集中度をアップ[{0}](1ターン) ＋ スターを獲得[{0}]",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00311.png",
         "cooldown": 15,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980090,
@@ -1186,12 +1594,18 @@
         "detail": "味方単体にガッツ状態を付与[{0}](1回・1ターン)＆NPを増やす",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00404.png",
         "cooldown": 15,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       }
     ]
   },
@@ -1210,12 +1624,18 @@
         "detail": "味方全体のQuickカード性能をアップ[{0}](1ターン)＆Artsカード性能をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00314.png",
         "cooldown": 15,
-        "target": [
-          "TargetAll"
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980095,
@@ -1224,12 +1644,18 @@
         "detail": "味方単体に回避状態を付与(1回・3ターン) ＋ スターを獲得[{0}]",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00402.png",
         "cooldown": 15,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980096,
@@ -1238,12 +1664,18 @@
         "detail": "味方全体のHPを回復[{0}]＆NPを増やす",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
         "cooldown": 15,
-        "target": [
-          "TargetAll"
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       }
     ]
   },
@@ -1262,12 +1694,18 @@
         "detail": "味方全体のQuickカード性能をアップ[{0}](1ターン)＆Busterカード性能をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00316.png",
         "cooldown": 15,
-        "target": [
-          "TargetAll"
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980098,
@@ -1276,12 +1714,18 @@
         "detail": "味方単体にガッツ状態を付与[{0}](1回・1ターン) ＋ スターを獲得[{0}]",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00404.png",
         "cooldown": 15,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980099,
@@ -1290,12 +1734,18 @@
         "detail": "味方全体のHPを回復[{0}] ＋ スターを獲得[{0}]",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
         "cooldown": 12,
-        "target": [
-          "TargetAll"
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       }
     ]
   },
@@ -1314,12 +1764,18 @@
         "detail": "味方単体のHPを回復[{0}] ＋ スターを獲得[{0}]",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
         "cooldown": 9,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980101,
@@ -1328,12 +1784,18 @@
         "detail": "味方単体の攻撃力をアップ[{0}](1ターン)＆NPを増やす",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00300.png",
         "cooldown": 15,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980102,
@@ -1342,12 +1804,18 @@
         "detail": "バトル中のメンバーをサブメンバーと入れ替える",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00704.png",
         "cooldown": 15,
-        "target": [
-          "OrderChange"
+        "functions": [
+          {
+            "target": "OrderChange",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       }
     ]
   },
@@ -1366,12 +1834,18 @@
         "detail": "味方全体のQuickカード性能をアップ[{0}](1ターン)＆Artsカード性能をアップ[{0}](1ターン)＆Busterカード性能をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00317.png",
         "cooldown": 18,
-        "target": [
-          "TargetAll"
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980104,
@@ -1380,12 +1854,18 @@
         "detail": "味方単体のExtra Attackカードの性能をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00301.png",
         "cooldown": 9,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980105,
@@ -1394,12 +1874,18 @@
         "detail": "味方単体の攻撃弱体状態を解除＆NPを増やす",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00608.png",
         "cooldown": 12,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       }
     ]
   },
@@ -1418,12 +1904,18 @@
         "detail": "味方全体のArtsカード性能をアップ[{0}](1ターン)＆宝具威力をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00305.png",
         "cooldown": 15,
-        "target": [
-          "TargetAll"
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980107,
@@ -1432,12 +1924,18 @@
         "detail": "味方単体に回避状態を付与(1ターン)＆毒・呪い・やけど状態を解除",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00402.png",
         "cooldown": 18,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       },
       {
         "id": 980108,
@@ -1446,12 +1944,18 @@
         "detail": "味方単体のHPを回復[{0}]＆NPを増やす＆クリティカル威力をアップ[{0}](1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
         "cooldown": 15,
-        "target": [
-          "TargetOne"
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
         ],
-        "script_buttons": null,
-        "buttons": [],
-        "transform": null
+        "locked": []
       }
     ]
   }
