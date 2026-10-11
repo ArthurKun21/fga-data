@@ -1,0 +1,1458 @@
+[
+  {
+    "id": 1,
+    "name": "魔術礼装･カルデア",
+    "assets": {
+      "male": "https://static.atlasacademy.io/JP/Items/masterequip00001.png",
+      "female": "https://static.atlasacademy.io/JP/Items/masterequip00002.png"
+    },
+    "skills": [
+      {
+        "id": 980001,
+        "num": 0,
+        "name": "応急手当",
+        "detail": "味方単体のHPを大回復[{0}]",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
+        "cooldown": 9,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980002,
+        "num": 1,
+        "name": "瞬間強化",
+        "detail": "味方単体の攻撃力を超アップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00300.png",
+        "cooldown": 15,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980003,
+        "num": 2,
+        "name": "緊急回避",
+        "detail": "味方単体に回避状態を付与(1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00402.png",
+        "cooldown": 15,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "魔術礼装･カルデア戦闘服",
+    "assets": {
+      "male": "https://static.atlasacademy.io/JP/Items/masterequip00021.png",
+      "female": "https://static.atlasacademy.io/JP/Items/masterequip00022.png"
+    },
+    "skills": [
+      {
+        "id": 980004,
+        "num": 0,
+        "name": "全体強化",
+        "detail": "味方全体の攻撃力をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00300.png",
+        "cooldown": 12,
+        "target": [
+          "TargetAll"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980005,
+        "num": 1,
+        "name": "ガンド",
+        "detail": "敵単体にスタン状態を付与(1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00508.png",
+        "cooldown": 15,
+        "target": [
+          "TargetAll"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980006,
+        "num": 2,
+        "name": "オーダーチェンジ",
+        "detail": "バトル中のメンバーをサブメンバーと入れ替える",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00704.png",
+        "cooldown": 15,
+        "target": [
+          "OrderChange"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "魔術礼装･魔術協会制服",
+    "assets": {
+      "male": "https://static.atlasacademy.io/JP/Items/masterequip00031.png",
+      "female": "https://static.atlasacademy.io/JP/Items/masterequip00032.png"
+    },
+    "skills": [
+      {
+        "id": 980007,
+        "num": 0,
+        "name": "全体回復",
+        "detail": "味方全体のHPを回復[{0}]",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
+        "cooldown": 12,
+        "target": [
+          "TargetAll"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980008,
+        "num": 1,
+        "name": "霊子譲渡",
+        "detail": "味方単体のNPを増やす",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00601.png",
+        "cooldown": 15,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980009,
+        "num": 2,
+        "name": "コマンドシャッフル",
+        "detail": "コマンドカードを配り直す",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00703.png",
+        "cooldown": 15,
+        "target": [
+          "TargetAll"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "魔術礼装･アトラス院制服",
+    "assets": {
+      "male": "https://static.atlasacademy.io/JP/Items/masterequip00041.png",
+      "female": "https://static.atlasacademy.io/JP/Items/masterequip00042.png"
+    },
+    "skills": [
+      {
+        "id": 980010,
+        "num": 0,
+        "name": "オシリスの塵",
+        "detail": "味方単体に無敵状態を付与(1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00403.png",
+        "cooldown": 15,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980011,
+        "num": 1,
+        "name": "イシスの雨",
+        "detail": "味方単体の弱体状態を解除",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00608.png",
+        "cooldown": 15,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980012,
+        "num": 2,
+        "name": "メジェドの眼",
+        "detail": "味方単体のスキルチャージを2進める",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00609.png",
+        "cooldown": 15,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "アニバーサリー・ブロンド",
+    "assets": {
+      "male": "https://static.atlasacademy.io/JP/Items/masterequip00051.png",
+      "female": "https://static.atlasacademy.io/JP/Items/masterequip00052.png"
+    },
+    "skills": [
+      {
+        "id": 980013,
+        "num": 0,
+        "name": "魔力放出",
+        "detail": "味方単体のBusterカード性能を超アップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00306.png",
+        "cooldown": 15,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980014,
+        "num": 1,
+        "name": "勝利への確信",
+        "detail": "スターを大量獲得[{0}]",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00603.png",
+        "cooldown": 12,
+        "target": [
+          "TargetAll"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980015,
+        "num": 2,
+        "name": "騎士の誓い",
+        "detail": "味方単体にガッツ状態を付与[{0}](1回・1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00404.png",
+        "cooldown": 15,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "ロイヤルブランド",
+    "assets": {
+      "male": "https://static.atlasacademy.io/JP/Items/masterequip00061.png",
+      "female": "https://static.atlasacademy.io/JP/Items/masterequip00062.png"
+    },
+    "skills": [
+      {
+        "id": 980016,
+        "num": 0,
+        "name": "反応強化",
+        "detail": "味方単体のQuickカード性能をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00304.png",
+        "cooldown": 15,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980017,
+        "num": 1,
+        "name": "鉄の専心",
+        "detail": "味方単体のスター集中度をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00311.png",
+        "cooldown": 12,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980018,
+        "num": 2,
+        "name": "必至",
+        "detail": "味方単体に必中状態を付与[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00310.png",
+        "cooldown": 10,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "ブリリアントサマー",
+    "assets": {
+      "male": "https://static.atlasacademy.io/JP/Items/masterequip00071.png",
+      "female": "https://static.atlasacademy.io/JP/Items/masterequip00072.png"
+    },
+    "skills": [
+      {
+        "id": 980019,
+        "num": 0,
+        "name": "ランブル・パーティー",
+        "detail": "味方全体のQuickカード性能をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00304.png",
+        "cooldown": 15,
+        "target": [
+          "TargetAll"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980020,
+        "num": 1,
+        "name": "必殺トライデント",
+        "detail": "味方単体に無敵貫通状態を付与(1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00312.png",
+        "cooldown": 12,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980021,
+        "num": 2,
+        "name": "シーハウス・シャワー",
+        "detail": "味方単体のHPを回復[{0}]＆NPを増やす",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
+        "cooldown": 12,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "月の海の記憶",
+    "assets": {
+      "male": "https://static.atlasacademy.io/JP/Items/masterequip00081.png",
+      "female": "https://static.atlasacademy.io/JP/Items/masterequip00082.png"
+    },
+    "skills": [
+      {
+        "id": 980022,
+        "num": 0,
+        "name": "霊子向上",
+        "detail": "味方単体のArtsカード性能をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00305.png",
+        "cooldown": 15,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980023,
+        "num": 1,
+        "name": "完勝への布石",
+        "detail": "味方単体のスター発生率をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00604.png",
+        "cooldown": 12,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980024,
+        "num": 2,
+        "name": "パニッシュメント",
+        "detail": "敵単体に強化無効状態(1回)を付与",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00521.png",
+        "cooldown": 15,
+        "target": [
+          "TargetAll"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "月の裏側の記憶",
+    "assets": {
+      "male": "https://static.atlasacademy.io/JP/Items/masterequip00091.png",
+      "female": "https://static.atlasacademy.io/JP/Items/masterequip00092.png"
+    },
+    "skills": [
+      {
+        "id": 980025,
+        "num": 0,
+        "name": "霊子向上・全",
+        "detail": "味方全体のArtsカード性能をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00305.png",
+        "cooldown": 15,
+        "target": [
+          "TargetAll"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980026,
+        "num": 1,
+        "name": "生存への布石",
+        "detail": "味方単体に弱体無効状態を付与(1回)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00411.png",
+        "cooldown": 12,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980027,
+        "num": 2,
+        "name": "ダウン・スライド",
+        "detail": "敵単体のチャージを1減らす",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00513.png",
+        "cooldown": 15,
+        "target": [
+          "TargetAll"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "name": "2004年の断片",
+    "assets": {
+      "male": "https://static.atlasacademy.io/JP/Items/masterequip00101.png",
+      "female": "https://static.atlasacademy.io/JP/Items/masterequip00102.png"
+    },
+    "skills": [
+      {
+        "id": 980028,
+        "num": 0,
+        "name": "コード:F",
+        "detail": "味方単体の宝具威力をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00302.png",
+        "cooldown": 12,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980029,
+        "num": 1,
+        "name": "コード:U",
+        "detail": "味方単体のBusterカードへのスター集中度をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00308.png",
+        "cooldown": 12,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980030,
+        "num": 2,
+        "name": "コード:H",
+        "detail": "味方単体のNP獲得量をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00602.png",
+        "cooldown": 12,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "name": "魔術礼装･極地用カルデア制服",
+    "assets": {
+      "male": "https://static.atlasacademy.io/JP/Items/masterequip00111.png",
+      "female": "https://static.atlasacademy.io/JP/Items/masterequip00112.png"
+    },
+    "skills": [
+      {
+        "id": 980031,
+        "num": 0,
+        "name": "浄化回復",
+        "detail": "味方単体のHPを回復[{0}]＆防御弱体状態を解除",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
+        "cooldown": 12,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980032,
+        "num": 1,
+        "name": "幻想強化",
+        "detail": "味方単体の攻撃力をアップ[{0}](1ターン)＆宝具威力をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00300.png",
+        "cooldown": 15,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980033,
+        "num": 2,
+        "name": "予測回避",
+        "detail": "味方単体に回避状態を付与(1回・3ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00402.png",
+        "cooldown": 12,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "name": "トロピカルサマー",
+    "assets": {
+      "male": "https://static.atlasacademy.io/JP/Items/masterequip00121.png",
+      "female": "https://static.atlasacademy.io/JP/Items/masterequip00122.png"
+    },
+    "skills": [
+      {
+        "id": 980037,
+        "num": 0,
+        "name": "ブルー・スプラッシュ",
+        "detail": "味方単体のArtsカード性能をアップ[{0}](1ターン)＆宝具威力をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00305.png",
+        "cooldown": 15,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980038,
+        "num": 1,
+        "name": "サプライ・ウォーター",
+        "detail": "味方単体のArtsカードへのスター集中度をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00309.png",
+        "cooldown": 12,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980039,
+        "num": 2,
+        "name": "セーフティ・オイル",
+        "detail": "味方単体の強化解除耐性をアップ[{0}](1ターン)＆NPを増やす",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00416.png",
+        "cooldown": 12,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "name": "晴れの新年",
+    "assets": {
+      "male": "https://static.atlasacademy.io/JP/Items/masterequip00131.png",
+      "female": "https://static.atlasacademy.io/JP/Items/masterequip00132.png"
+    },
+    "skills": [
+      {
+        "id": 980040,
+        "num": 0,
+        "name": "ファースト・シャイン",
+        "detail": "味方全体の宝具威力をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00302.png",
+        "cooldown": 12,
+        "target": [
+          "TargetAll"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980041,
+        "num": 1,
+        "name": "リトル・ギフト",
+        "detail": "味方単体のNPを増やす ＋ スターを獲得[{0}]",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00601.png",
+        "cooldown": 12,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980042,
+        "num": 2,
+        "name": "オセチ・パッケージ",
+        "detail": "味方単体の最大HPをアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00412.png",
+        "cooldown": 10,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "name": "キャプテン・カルデア",
+    "assets": {
+      "male": "https://static.atlasacademy.io/JP/Items/masterequip00151.png",
+      "female": "https://static.atlasacademy.io/JP/Items/masterequip00152.png"
+    },
+    "skills": [
+      {
+        "id": 980061,
+        "num": 0,
+        "name": "オーバー・チャージャー",
+        "detail": "味方単体の宝具威力をアップ[{0}](1ターン)＆攻撃弱体状態を解除",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00302.png",
+        "cooldown": 15,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980062,
+        "num": 1,
+        "name": "スター・ブラスター",
+        "detail": "味方単体のクリティカル威力をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
+        "cooldown": 12,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980063,
+        "num": 2,
+        "name": "エスケープ・ポッド",
+        "detail": "味方単体に回避状態を付与(1回・3ターン)＆HPを回復[{0}]",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00402.png",
+        "cooldown": 15,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "name": "第五真説要素環境用カルデア制服",
+    "assets": {
+      "male": "https://static.atlasacademy.io/JP/Items/masterequip00161.png",
+      "female": "https://static.atlasacademy.io/JP/Items/masterequip00162.png"
+    },
+    "skills": [
+      {
+        "id": 980064,
+        "num": 0,
+        "name": "一斉突撃",
+        "detail": "味方全体のBusterカード性能をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00306.png",
+        "cooldown": 15,
+        "target": [
+          "TargetAll"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980065,
+        "num": 1,
+        "name": "三重治療",
+        "detail": "味方単体に毎ターンHP回復状態を付与[{0}](3ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00606.png",
+        "cooldown": 12,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980066,
+        "num": 2,
+        "name": "魔力変換",
+        "detail": "味方単体のNPを増やす＆NP獲得量をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00601.png",
+        "cooldown": 12,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "name": "カルデア・パスファインダー",
+    "assets": {
+      "male": "https://static.atlasacademy.io/JP/Items/masterequip00171.png",
+      "female": "https://static.atlasacademy.io/JP/Items/masterequip00172.png"
+    },
+    "skills": [
+      {
+        "id": 980067,
+        "num": 0,
+        "name": "オリエンテーリング",
+        "detail": "味方単体のQuickカード性能をアップ[{0}](1ターン)＆宝具威力をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00304.png",
+        "cooldown": 15,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980068,
+        "num": 1,
+        "name": "キャンプファイヤー",
+        "detail": "味方全体のクリティカル威力をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
+        "cooldown": 12,
+        "target": [
+          "TargetAll"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980069,
+        "num": 2,
+        "name": "サバイバルキット",
+        "detail": "味方単体の毒・呪い・やけど状態を解除＆NPを増やす",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00608.png",
+        "cooldown": 12,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "name": "ハロウィン・ロイヤリティ",
+    "assets": {
+      "male": "https://static.atlasacademy.io/JP/Items/masterequip00191.png",
+      "female": "https://static.atlasacademy.io/JP/Items/masterequip00192.png"
+    },
+    "skills": [
+      {
+        "id": 980070,
+        "num": 0,
+        "name": "輝きのエスコート",
+        "detail": "味方単体のBusterカード性能をアップ[{0}](1ターン)＆宝具威力をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00306.png",
+        "cooldown": 15,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980071,
+        "num": 1,
+        "name": "純潔のコーディネイト",
+        "detail": "味方単体に無敵状態を付与(2回・1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00403.png",
+        "cooldown": 12,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980072,
+        "num": 2,
+        "name": "幸福のリジェネレイト",
+        "detail": "味方単体の行動不能状態・封印状態を解除＆NPを増やす",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00608.png",
+        "cooldown": 12,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "name": "決戦用カルデア制服",
+    "assets": {
+      "male": "https://static.atlasacademy.io/JP/Items/masterequip00211.png",
+      "female": "https://static.atlasacademy.io/JP/Items/masterequip00212.png"
+    },
+    "skills": [
+      {
+        "id": 980073,
+        "num": 0,
+        "name": "決戦強化",
+        "detail": "味方全体の攻撃力をアップ[{0}](1ターン)＆宝具威力をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00300.png",
+        "cooldown": 15,
+        "target": [
+          "TargetAll"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980074,
+        "num": 1,
+        "name": "前線回復",
+        "detail": "味方単体のHPを回復[{0}]＆攻撃弱体状態を解除",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
+        "cooldown": 12,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980075,
+        "num": 2,
+        "name": "オーダーチェンジ",
+        "detail": "バトル中のメンバーをサブメンバーと入れ替える",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00704.png",
+        "cooldown": 15,
+        "target": [
+          "OrderChange"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "name": "総耶高校学生服",
+    "assets": {
+      "male": "https://static.atlasacademy.io/JP/Items/masterequip00241.png",
+      "female": "https://static.atlasacademy.io/JP/Items/masterequip00242.png"
+    },
+    "skills": [
+      {
+        "id": 980076,
+        "num": 0,
+        "name": "高級カレーパン",
+        "detail": "味方単体のBusterカード性能をアップ[{0}](1ターン)＆HPを回復[{0}]",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00306.png",
+        "cooldown": 15,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980077,
+        "num": 1,
+        "name": "境界を視る",
+        "detail": "敵単体の即死耐性をダウン[{0}](1ターン) ＋ スターを獲得[{0}]",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00514.png",
+        "cooldown": 12,
+        "target": [
+          "TargetAll"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980078,
+        "num": 2,
+        "name": "夕焼けの教室",
+        "detail": "味方単体の精神異常状態を解除＆NPを増やす",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00608.png",
+        "cooldown": 12,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "name": "新春の装い",
+    "assets": {
+      "male": "https://static.atlasacademy.io/JP/Items/masterequip00261.png",
+      "female": "https://static.atlasacademy.io/JP/Items/masterequip00262.png"
+    },
+    "skills": [
+      {
+        "id": 980079,
+        "num": 0,
+        "name": "除災招福",
+        "detail": "味方全体の宝具威力をアップ[{0}](1ターン)＆NP獲得量をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00302.png",
+        "cooldown": 12,
+        "target": [
+          "TargetAll"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980080,
+        "num": 1,
+        "name": "心願成就",
+        "detail": "味方単体に宝具使用時のチャージ段階を1段階引き上げる状態を付与(1ターン)＆NPを増やす",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00313.png",
+        "cooldown": 12,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980081,
+        "num": 2,
+        "name": "無病息災",
+        "detail": "味方単体に弱体無効状態を付与(1回・3ターン) ＋ スターを獲得[{0}]",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00411.png",
+        "cooldown": 12,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      }
+    ]
+  },
+  {
+    "id": 330,
+    "name": "サマー・ストリート",
+    "assets": {
+      "male": "https://static.atlasacademy.io/JP/Items/masterequip00331.png",
+      "female": "https://static.atlasacademy.io/JP/Items/masterequip00332.png"
+    },
+    "skills": [
+      {
+        "id": 980082,
+        "num": 0,
+        "name": "スカイブルー",
+        "detail": "味方単体のArtsカード性能をアップ[{0}](1ターン)＆クリティカル威力をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00305.png",
+        "cooldown": 12,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980083,
+        "num": 1,
+        "name": "ウインドグリーン",
+        "detail": "味方単体に回避状態を付与(1回・3ターン)＆NPを増やす",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00402.png",
+        "cooldown": 15,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980084,
+        "num": 2,
+        "name": "ライトニングイエロー",
+        "detail": "味方単体のArtsカードへのスター集中度をアップ[{0}](1ターン)＆NPを増やす",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00309.png",
+        "cooldown": 15,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      }
+    ]
+  },
+  {
+    "id": 340,
+    "name": "ホワイトクリスマス",
+    "assets": {
+      "male": "https://static.atlasacademy.io/JP/Items/masterequip00341.png",
+      "female": "https://static.atlasacademy.io/JP/Items/masterequip00342.png"
+    },
+    "skills": [
+      {
+        "id": 980085,
+        "num": 0,
+        "name": "ホーリー・シャイン",
+        "detail": "味方単体の宝具威力をアップ[{0}](1ターン)＆NP獲得量をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00302.png",
+        "cooldown": 15,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980086,
+        "num": 1,
+        "name": "パウダー・スノー",
+        "detail": "味方単体のHPを回復[{0}]＆毒・呪い・やけど状態を解除",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
+        "cooldown": 12,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980087,
+        "num": 2,
+        "name": "リトル・プレゼント",
+        "detail": "スターを獲得[{0}] ＋ 味方全体のNPを少し増やす",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00603.png",
+        "cooldown": 9,
+        "target": [
+          "TargetAll"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      }
+    ]
+  },
+  {
+    "id": 360,
+    "name": "三咲高校学生服",
+    "assets": {
+      "male": "https://static.atlasacademy.io/JP/Items/masterequip00361.png",
+      "female": "https://static.atlasacademy.io/JP/Items/masterequip00362.png"
+    },
+    "skills": [
+      {
+        "id": 980088,
+        "num": 0,
+        "name": "アッセンブル",
+        "detail": "味方全体のArtsカード性能をアップ[{0}](1ターン)＆Busterカード性能をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00315.png",
+        "cooldown": 15,
+        "target": [
+          "TargetAll"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980089,
+        "num": 1,
+        "name": "ゴーフォーイット",
+        "detail": "味方単体のスター集中度をアップ[{0}](1ターン) ＋ スターを獲得[{0}]",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00311.png",
+        "cooldown": 15,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980090,
+        "num": 2,
+        "name": "ネバーギブアップ",
+        "detail": "味方単体にガッツ状態を付与[{0}](1回・1ターン)＆NPを増やす",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00404.png",
+        "cooldown": 15,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      }
+    ]
+  },
+  {
+    "id": 410,
+    "name": "ウィンターカジュアル",
+    "assets": {
+      "male": "https://static.atlasacademy.io/JP/Items/masterequip00411.png",
+      "female": "https://static.atlasacademy.io/JP/Items/masterequip00412.png"
+    },
+    "skills": [
+      {
+        "id": 980094,
+        "num": 0,
+        "name": "スノーボール・ファイト",
+        "detail": "味方全体のQuickカード性能をアップ[{0}](1ターン)＆Artsカード性能をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00314.png",
+        "cooldown": 15,
+        "target": [
+          "TargetAll"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980095,
+        "num": 1,
+        "name": "クール・スケーティング",
+        "detail": "味方単体に回避状態を付与(1回・3ターン) ＋ スターを獲得[{0}]",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00402.png",
+        "cooldown": 15,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980096,
+        "num": 2,
+        "name": "ホットココア・ブレイク",
+        "detail": "味方全体のHPを回復[{0}]＆NPを増やす",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
+        "cooldown": 15,
+        "target": [
+          "TargetAll"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      }
+    ]
+  },
+  {
+    "id": 430,
+    "name": "浅葱の隊服",
+    "assets": {
+      "male": "https://static.atlasacademy.io/JP/Items/masterequip00431.png",
+      "female": "https://static.atlasacademy.io/JP/Items/masterequip00432.png"
+    },
+    "skills": [
+      {
+        "id": 980097,
+        "num": 0,
+        "name": "壬生浪スピリッツ",
+        "detail": "味方全体のQuickカード性能をアップ[{0}](1ターン)＆Busterカード性能をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00316.png",
+        "cooldown": 15,
+        "target": [
+          "TargetAll"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980098,
+        "num": 1,
+        "name": "見回り当番",
+        "detail": "味方単体にガッツ状態を付与[{0}](1回・1ターン) ＋ スターを獲得[{0}]",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00404.png",
+        "cooldown": 15,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980099,
+        "num": 2,
+        "name": "新選おにぎり",
+        "detail": "味方全体のHPを回復[{0}] ＋ スターを獲得[{0}]",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
+        "cooldown": 12,
+        "target": [
+          "TargetAll"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      }
+    ]
+  },
+  {
+    "id": 440,
+    "name": "ノーマル・カルデア制服",
+    "assets": {
+      "male": "https://static.atlasacademy.io/JP/Items/masterequip00441.png",
+      "female": "https://static.atlasacademy.io/JP/Items/masterequip00442.png"
+    },
+    "skills": [
+      {
+        "id": 980100,
+        "num": 0,
+        "name": "応急支援",
+        "detail": "味方単体のHPを回復[{0}] ＋ スターを獲得[{0}]",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
+        "cooldown": 9,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980101,
+        "num": 1,
+        "name": "魔力強化",
+        "detail": "味方単体の攻撃力をアップ[{0}](1ターン)＆NPを増やす",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00300.png",
+        "cooldown": 15,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980102,
+        "num": 2,
+        "name": "オーダーチェンジ",
+        "detail": "バトル中のメンバーをサブメンバーと入れ替える",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00704.png",
+        "cooldown": 15,
+        "target": [
+          "OrderChange"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      }
+    ]
+  },
+  {
+    "id": 460,
+    "name": "クラン・カラティン",
+    "assets": {
+      "male": "https://static.atlasacademy.io/JP/Items/masterequip00461.png",
+      "female": "https://static.atlasacademy.io/JP/Items/masterequip00462.png"
+    },
+    "skills": [
+      {
+        "id": 980103,
+        "num": 0,
+        "name": "オール・アウト・アタック",
+        "detail": "味方全体のQuickカード性能をアップ[{0}](1ターン)＆Artsカード性能をアップ[{0}](1ターン)＆Busterカード性能をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00317.png",
+        "cooldown": 18,
+        "target": [
+          "TargetAll"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980104,
+        "num": 1,
+        "name": "エクストラ・エンハンスメント",
+        "detail": "味方単体のExtra Attackカードの性能をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00301.png",
+        "cooldown": 9,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980105,
+        "num": 2,
+        "name": "カウンター・オフェンシブ",
+        "detail": "味方単体の攻撃弱体状態を解除＆NPを増やす",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00608.png",
+        "cooldown": 12,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      }
+    ]
+  },
+  {
+    "id": 470,
+    "name": "カルデア学園制服",
+    "assets": {
+      "male": "https://static.atlasacademy.io/JP/Items/masterequip00471.png",
+      "female": "https://static.atlasacademy.io/JP/Items/masterequip00472.png"
+    },
+    "skills": [
+      {
+        "id": 980106,
+        "num": 0,
+        "name": "青春号令",
+        "detail": "味方全体のArtsカード性能をアップ[{0}](1ターン)＆宝具威力をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00305.png",
+        "cooldown": 15,
+        "target": [
+          "TargetAll"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980107,
+        "num": 1,
+        "name": "緊急早退",
+        "detail": "味方単体に回避状態を付与(1ターン)＆毒・呪い・やけど状態を解除",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00402.png",
+        "cooldown": 18,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      },
+      {
+        "id": 980108,
+        "num": 2,
+        "name": "応急早弁",
+        "detail": "味方単体のHPを回復[{0}]＆NPを増やす＆クリティカル威力をアップ[{0}](1ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
+        "cooldown": 15,
+        "target": [
+          "TargetOne"
+        ],
+        "script_buttons": null,
+        "buttons": [],
+        "transform": null
+      }
+    ]
+  }
+]
