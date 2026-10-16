@@ -33189,6 +33189,26 @@
           }
         ],
         "locked": []
+      },
+      {
+        "id": 325551,
+        "num": 2,
+        "name": "天眼 A+",
+        "detail": "自身に無敵貫通状態を付与(1ターン)＆宝具使用時のチャージ段階を2段階引き上げる状態を付与(1回・3ターン)[g][o]▲[/o][/g]＆Busterカード性能をアップ[{0}](3回・3ターン[g][o]▲[/o][/g])＆NPを増やす[{0}][g][o]▲[/o][/g]",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00312.png",
+        "cooldown": 7,
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
+        ],
+        "locked": []
       }
     ],
     "append_passives": [
