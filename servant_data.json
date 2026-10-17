@@ -89063,9 +89063,13 @@
         "cooldown": 8,
         "functions": [
           {
-            "target": "TargetAll",
+            "target": "Choice2",
             "act_select_index": null,
-            "choice2": null,
+            "choice2": {
+              "detail": "宝具タイプを選択してください",
+              "option_a": "宝具を全体攻撃宝具に変更する",
+              "option_b": "宝具を単体攻撃宝具に変更する"
+            },
             "choice3": null,
             "np2": null,
             "np3": null,
