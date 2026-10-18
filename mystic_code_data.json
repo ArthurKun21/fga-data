@@ -11,7 +11,7 @@
         "id": 980001,
         "num": 0,
         "name": "応急手当",
-        "detail": "味方単体のHPを大回復[{0}]",
+        "detail": "味方単体のHPを大回復",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
         "cooldown": 9,
         "functions": [
@@ -31,7 +31,7 @@
         "id": 980002,
         "num": 1,
         "name": "瞬間強化",
-        "detail": "味方単体の攻撃力を超アップ[{0}](1ターン)",
+        "detail": "味方単体の攻撃力を超アップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00300.png",
         "cooldown": 15,
         "functions": [
@@ -81,7 +81,7 @@
         "id": 980004,
         "num": 0,
         "name": "全体強化",
-        "detail": "味方全体の攻撃力をアップ[{0}](1ターン)",
+        "detail": "味方全体の攻撃力をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00300.png",
         "cooldown": 12,
         "functions": [
@@ -151,7 +151,7 @@
         "id": 980007,
         "num": 0,
         "name": "全体回復",
-        "detail": "味方全体のHPを回復[{0}]",
+        "detail": "味方全体のHPを回復",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
         "cooldown": 12,
         "functions": [
@@ -291,7 +291,7 @@
         "id": 980013,
         "num": 0,
         "name": "魔力放出",
-        "detail": "味方単体のBusterカード性能を超アップ[{0}](1ターン)",
+        "detail": "味方単体のBusterカード性能を超アップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00306.png",
         "cooldown": 15,
         "functions": [
@@ -311,7 +311,7 @@
         "id": 980014,
         "num": 1,
         "name": "勝利への確信",
-        "detail": "スターを大量獲得[{0}]",
+        "detail": "スターを大量獲得",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00603.png",
         "cooldown": 12,
         "functions": [
@@ -331,7 +331,7 @@
         "id": 980015,
         "num": 2,
         "name": "騎士の誓い",
-        "detail": "味方単体にガッツ状態を付与[{0}](1回・1ターン)",
+        "detail": "味方単体にガッツ状態を付与(1回・1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00404.png",
         "cooldown": 15,
         "functions": [
@@ -361,7 +361,7 @@
         "id": 980016,
         "num": 0,
         "name": "反応強化",
-        "detail": "味方単体のQuickカード性能をアップ[{0}](1ターン)",
+        "detail": "味方単体のQuickカード性能をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00304.png",
         "cooldown": 15,
         "functions": [
@@ -381,7 +381,7 @@
         "id": 980017,
         "num": 1,
         "name": "鉄の専心",
-        "detail": "味方単体のスター集中度をアップ[{0}](1ターン)",
+        "detail": "味方単体のスター集中度をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00311.png",
         "cooldown": 12,
         "functions": [
@@ -401,7 +401,7 @@
         "id": 980018,
         "num": 2,
         "name": "必至",
-        "detail": "味方単体に必中状態を付与[{0}](1ターン)",
+        "detail": "味方単体に必中状態を付与(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00310.png",
         "cooldown": 10,
         "functions": [
@@ -431,7 +431,7 @@
         "id": 980019,
         "num": 0,
         "name": "ランブル・パーティー",
-        "detail": "味方全体のQuickカード性能をアップ[{0}](1ターン)",
+        "detail": "味方全体のQuickカード性能をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00304.png",
         "cooldown": 15,
         "functions": [
@@ -471,7 +471,7 @@
         "id": 980021,
         "num": 2,
         "name": "シーハウス・シャワー",
-        "detail": "味方単体のHPを回復[{0}]＆NPを増やす",
+        "detail": "味方単体のHPを回復＆NPを増やす",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
         "cooldown": 12,
         "functions": [
@@ -501,7 +501,7 @@
         "id": 980022,
         "num": 0,
         "name": "霊子向上",
-        "detail": "味方単体のArtsカード性能をアップ[{0}](1ターン)",
+        "detail": "味方単体のArtsカード性能をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00305.png",
         "cooldown": 15,
         "functions": [
@@ -521,7 +521,7 @@
         "id": 980023,
         "num": 1,
         "name": "完勝への布石",
-        "detail": "味方単体のスター発生率をアップ[{0}](1ターン)",
+        "detail": "味方単体のスター発生率をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00604.png",
         "cooldown": 12,
         "functions": [
@@ -571,7 +571,7 @@
         "id": 980025,
         "num": 0,
         "name": "霊子向上・全",
-        "detail": "味方全体のArtsカード性能をアップ[{0}](1ターン)",
+        "detail": "味方全体のArtsカード性能をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00305.png",
         "cooldown": 15,
         "functions": [
@@ -641,7 +641,7 @@
         "id": 980028,
         "num": 0,
         "name": "コード:F",
-        "detail": "味方単体の宝具威力をアップ[{0}](1ターン)",
+        "detail": "味方単体の宝具威力をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00302.png",
         "cooldown": 12,
         "functions": [
@@ -661,7 +661,7 @@
         "id": 980029,
         "num": 1,
         "name": "コード:U",
-        "detail": "味方単体のBusterカードへのスター集中度をアップ[{0}](1ターン)",
+        "detail": "味方単体のBusterカードへのスター集中度をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00308.png",
         "cooldown": 12,
         "functions": [
@@ -681,7 +681,7 @@
         "id": 980030,
         "num": 2,
         "name": "コード:H",
-        "detail": "味方単体のNP獲得量をアップ[{0}](1ターン)",
+        "detail": "味方単体のNP獲得量をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00602.png",
         "cooldown": 12,
         "functions": [
@@ -711,7 +711,7 @@
         "id": 980031,
         "num": 0,
         "name": "浄化回復",
-        "detail": "味方単体のHPを回復[{0}]＆防御弱体状態を解除",
+        "detail": "味方単体のHPを回復＆防御弱体状態を解除",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
         "cooldown": 12,
         "functions": [
@@ -731,7 +731,7 @@
         "id": 980032,
         "num": 1,
         "name": "幻想強化",
-        "detail": "味方単体の攻撃力をアップ[{0}](1ターン)＆宝具威力をアップ[{0}](1ターン)",
+        "detail": "味方単体の攻撃力をアップ(1ターン)＆宝具威力をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00300.png",
         "cooldown": 15,
         "functions": [
@@ -781,7 +781,7 @@
         "id": 980037,
         "num": 0,
         "name": "ブルー・スプラッシュ",
-        "detail": "味方単体のArtsカード性能をアップ[{0}](1ターン)＆宝具威力をアップ[{0}](1ターン)",
+        "detail": "味方単体のArtsカード性能をアップ(1ターン)＆宝具威力をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00305.png",
         "cooldown": 15,
         "functions": [
@@ -801,7 +801,7 @@
         "id": 980038,
         "num": 1,
         "name": "サプライ・ウォーター",
-        "detail": "味方単体のArtsカードへのスター集中度をアップ[{0}](1ターン)",
+        "detail": "味方単体のArtsカードへのスター集中度をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00309.png",
         "cooldown": 12,
         "functions": [
@@ -821,7 +821,7 @@
         "id": 980039,
         "num": 2,
         "name": "セーフティ・オイル",
-        "detail": "味方単体の強化解除耐性をアップ[{0}](1ターン)＆NPを増やす",
+        "detail": "味方単体の強化解除耐性をアップ(1ターン)＆NPを増やす",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00416.png",
         "cooldown": 12,
         "functions": [
@@ -851,7 +851,7 @@
         "id": 980040,
         "num": 0,
         "name": "ファースト・シャイン",
-        "detail": "味方全体の宝具威力をアップ[{0}](1ターン)",
+        "detail": "味方全体の宝具威力をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00302.png",
         "cooldown": 12,
         "functions": [
@@ -871,7 +871,7 @@
         "id": 980041,
         "num": 1,
         "name": "リトル・ギフト",
-        "detail": "味方単体のNPを増やす ＋ スターを獲得[{0}]",
+        "detail": "味方単体のNPを増やす ＋ スターを獲得",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00601.png",
         "cooldown": 12,
         "functions": [
@@ -891,7 +891,7 @@
         "id": 980042,
         "num": 2,
         "name": "オセチ・パッケージ",
-        "detail": "味方単体の最大HPをアップ[{0}](1ターン)",
+        "detail": "味方単体の最大HPをアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00412.png",
         "cooldown": 10,
         "functions": [
@@ -921,7 +921,7 @@
         "id": 980061,
         "num": 0,
         "name": "オーバー・チャージャー",
-        "detail": "味方単体の宝具威力をアップ[{0}](1ターン)＆攻撃弱体状態を解除",
+        "detail": "味方単体の宝具威力をアップ(1ターン)＆攻撃弱体状態を解除",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00302.png",
         "cooldown": 15,
         "functions": [
@@ -941,7 +941,7 @@
         "id": 980062,
         "num": 1,
         "name": "スター・ブラスター",
-        "detail": "味方単体のクリティカル威力をアップ[{0}](1ターン)",
+        "detail": "味方単体のクリティカル威力をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
         "cooldown": 12,
         "functions": [
@@ -961,7 +961,7 @@
         "id": 980063,
         "num": 2,
         "name": "エスケープ・ポッド",
-        "detail": "味方単体に回避状態を付与(1回・3ターン)＆HPを回復[{0}]",
+        "detail": "味方単体に回避状態を付与(1回・3ターン)＆HPを回復",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00402.png",
         "cooldown": 15,
         "functions": [
@@ -991,7 +991,7 @@
         "id": 980064,
         "num": 0,
         "name": "一斉突撃",
-        "detail": "味方全体のBusterカード性能をアップ[{0}](1ターン)",
+        "detail": "味方全体のBusterカード性能をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00306.png",
         "cooldown": 15,
         "functions": [
@@ -1011,7 +1011,7 @@
         "id": 980065,
         "num": 1,
         "name": "三重治療",
-        "detail": "味方単体に毎ターンHP回復状態を付与[{0}](3ターン)",
+        "detail": "味方単体に毎ターンHP回復状態を付与(3ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00606.png",
         "cooldown": 12,
         "functions": [
@@ -1031,7 +1031,7 @@
         "id": 980066,
         "num": 2,
         "name": "魔力変換",
-        "detail": "味方単体のNPを増やす＆NP獲得量をアップ[{0}](1ターン)",
+        "detail": "味方単体のNPを増やす＆NP獲得量をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00601.png",
         "cooldown": 12,
         "functions": [
@@ -1061,7 +1061,7 @@
         "id": 980067,
         "num": 0,
         "name": "オリエンテーリング",
-        "detail": "味方単体のQuickカード性能をアップ[{0}](1ターン)＆宝具威力をアップ[{0}](1ターン)",
+        "detail": "味方単体のQuickカード性能をアップ(1ターン)＆宝具威力をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00304.png",
         "cooldown": 15,
         "functions": [
@@ -1081,7 +1081,7 @@
         "id": 980068,
         "num": 1,
         "name": "キャンプファイヤー",
-        "detail": "味方全体のクリティカル威力をアップ[{0}](1ターン)",
+        "detail": "味方全体のクリティカル威力をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
         "cooldown": 12,
         "functions": [
@@ -1131,7 +1131,7 @@
         "id": 980070,
         "num": 0,
         "name": "輝きのエスコート",
-        "detail": "味方単体のBusterカード性能をアップ[{0}](1ターン)＆宝具威力をアップ[{0}](1ターン)",
+        "detail": "味方単体のBusterカード性能をアップ(1ターン)＆宝具威力をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00306.png",
         "cooldown": 15,
         "functions": [
@@ -1201,7 +1201,7 @@
         "id": 980073,
         "num": 0,
         "name": "決戦強化",
-        "detail": "味方全体の攻撃力をアップ[{0}](1ターン)＆宝具威力をアップ[{0}](1ターン)",
+        "detail": "味方全体の攻撃力をアップ(1ターン)＆宝具威力をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00300.png",
         "cooldown": 15,
         "functions": [
@@ -1221,7 +1221,7 @@
         "id": 980074,
         "num": 1,
         "name": "前線回復",
-        "detail": "味方単体のHPを回復[{0}]＆攻撃弱体状態を解除",
+        "detail": "味方単体のHPを回復＆攻撃弱体状態を解除",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
         "cooldown": 12,
         "functions": [
@@ -1271,7 +1271,7 @@
         "id": 980076,
         "num": 0,
         "name": "高級カレーパン",
-        "detail": "味方単体のBusterカード性能をアップ[{0}](1ターン)＆HPを回復[{0}]",
+        "detail": "味方単体のBusterカード性能をアップ(1ターン)＆HPを回復",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00306.png",
         "cooldown": 15,
         "functions": [
@@ -1291,7 +1291,7 @@
         "id": 980077,
         "num": 1,
         "name": "境界を視る",
-        "detail": "敵単体の即死耐性をダウン[{0}](1ターン) ＋ スターを獲得[{0}]",
+        "detail": "敵単体の即死耐性をダウン(1ターン) ＋ スターを獲得",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00514.png",
         "cooldown": 12,
         "functions": [
@@ -1341,7 +1341,7 @@
         "id": 980079,
         "num": 0,
         "name": "除災招福",
-        "detail": "味方全体の宝具威力をアップ[{0}](1ターン)＆NP獲得量をアップ[{0}](1ターン)",
+        "detail": "味方全体の宝具威力をアップ(1ターン)＆NP獲得量をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00302.png",
         "cooldown": 12,
         "functions": [
@@ -1381,7 +1381,7 @@
         "id": 980081,
         "num": 2,
         "name": "無病息災",
-        "detail": "味方単体に弱体無効状態を付与(1回・3ターン) ＋ スターを獲得[{0}]",
+        "detail": "味方単体に弱体無効状態を付与(1回・3ターン) ＋ スターを獲得",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00411.png",
         "cooldown": 12,
         "functions": [
@@ -1411,7 +1411,7 @@
         "id": 980082,
         "num": 0,
         "name": "スカイブルー",
-        "detail": "味方単体のArtsカード性能をアップ[{0}](1ターン)＆クリティカル威力をアップ[{0}](1ターン)",
+        "detail": "味方単体のArtsカード性能をアップ(1ターン)＆クリティカル威力をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00305.png",
         "cooldown": 12,
         "functions": [
@@ -1451,7 +1451,7 @@
         "id": 980084,
         "num": 2,
         "name": "ライトニングイエロー",
-        "detail": "味方単体のArtsカードへのスター集中度をアップ[{0}](1ターン)＆NPを増やす",
+        "detail": "味方単体のArtsカードへのスター集中度をアップ(1ターン)＆NPを増やす",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00309.png",
         "cooldown": 15,
         "functions": [
@@ -1481,7 +1481,7 @@
         "id": 980085,
         "num": 0,
         "name": "ホーリー・シャイン",
-        "detail": "味方単体の宝具威力をアップ[{0}](1ターン)＆NP獲得量をアップ[{0}](1ターン)",
+        "detail": "味方単体の宝具威力をアップ(1ターン)＆NP獲得量をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00302.png",
         "cooldown": 15,
         "functions": [
@@ -1501,7 +1501,7 @@
         "id": 980086,
         "num": 1,
         "name": "パウダー・スノー",
-        "detail": "味方単体のHPを回復[{0}]＆毒・呪い・やけど状態を解除",
+        "detail": "味方単体のHPを回復＆毒・呪い・やけど状態を解除",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
         "cooldown": 12,
         "functions": [
@@ -1521,7 +1521,7 @@
         "id": 980087,
         "num": 2,
         "name": "リトル・プレゼント",
-        "detail": "スターを獲得[{0}] ＋ 味方全体のNPを少し増やす",
+        "detail": "スターを獲得 ＋ 味方全体のNPを少し増やす",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00603.png",
         "cooldown": 9,
         "functions": [
@@ -1551,7 +1551,7 @@
         "id": 980088,
         "num": 0,
         "name": "アッセンブル",
-        "detail": "味方全体のArtsカード性能をアップ[{0}](1ターン)＆Busterカード性能をアップ[{0}](1ターン)",
+        "detail": "味方全体のArtsカード性能をアップ(1ターン)＆Busterカード性能をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00315.png",
         "cooldown": 15,
         "functions": [
@@ -1571,7 +1571,7 @@
         "id": 980089,
         "num": 1,
         "name": "ゴーフォーイット",
-        "detail": "味方単体のスター集中度をアップ[{0}](1ターン) ＋ スターを獲得[{0}]",
+        "detail": "味方単体のスター集中度をアップ(1ターン) ＋ スターを獲得",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00311.png",
         "cooldown": 15,
         "functions": [
@@ -1591,7 +1591,7 @@
         "id": 980090,
         "num": 2,
         "name": "ネバーギブアップ",
-        "detail": "味方単体にガッツ状態を付与[{0}](1回・1ターン)＆NPを増やす",
+        "detail": "味方単体にガッツ状態を付与(1回・1ターン)＆NPを増やす",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00404.png",
         "cooldown": 15,
         "functions": [
@@ -1621,7 +1621,7 @@
         "id": 980094,
         "num": 0,
         "name": "スノーボール・ファイト",
-        "detail": "味方全体のQuickカード性能をアップ[{0}](1ターン)＆Artsカード性能をアップ[{0}](1ターン)",
+        "detail": "味方全体のQuickカード性能をアップ(1ターン)＆Artsカード性能をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00314.png",
         "cooldown": 15,
         "functions": [
@@ -1641,7 +1641,7 @@
         "id": 980095,
         "num": 1,
         "name": "クール・スケーティング",
-        "detail": "味方単体に回避状態を付与(1回・3ターン) ＋ スターを獲得[{0}]",
+        "detail": "味方単体に回避状態を付与(1回・3ターン) ＋ スターを獲得",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00402.png",
         "cooldown": 15,
         "functions": [
@@ -1661,7 +1661,7 @@
         "id": 980096,
         "num": 2,
         "name": "ホットココア・ブレイク",
-        "detail": "味方全体のHPを回復[{0}]＆NPを増やす",
+        "detail": "味方全体のHPを回復＆NPを増やす",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
         "cooldown": 15,
         "functions": [
@@ -1691,7 +1691,7 @@
         "id": 980097,
         "num": 0,
         "name": "壬生浪スピリッツ",
-        "detail": "味方全体のQuickカード性能をアップ[{0}](1ターン)＆Busterカード性能をアップ[{0}](1ターン)",
+        "detail": "味方全体のQuickカード性能をアップ(1ターン)＆Busterカード性能をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00316.png",
         "cooldown": 15,
         "functions": [
@@ -1711,7 +1711,7 @@
         "id": 980098,
         "num": 1,
         "name": "見回り当番",
-        "detail": "味方単体にガッツ状態を付与[{0}](1回・1ターン) ＋ スターを獲得[{0}]",
+        "detail": "味方単体にガッツ状態を付与(1回・1ターン) ＋ スターを獲得",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00404.png",
         "cooldown": 15,
         "functions": [
@@ -1731,7 +1731,7 @@
         "id": 980099,
         "num": 2,
         "name": "新選おにぎり",
-        "detail": "味方全体のHPを回復[{0}] ＋ スターを獲得[{0}]",
+        "detail": "味方全体のHPを回復 ＋ スターを獲得",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
         "cooldown": 12,
         "functions": [
@@ -1761,7 +1761,7 @@
         "id": 980100,
         "num": 0,
         "name": "応急支援",
-        "detail": "味方単体のHPを回復[{0}] ＋ スターを獲得[{0}]",
+        "detail": "味方単体のHPを回復 ＋ スターを獲得",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
         "cooldown": 9,
         "functions": [
@@ -1781,7 +1781,7 @@
         "id": 980101,
         "num": 1,
         "name": "魔力強化",
-        "detail": "味方単体の攻撃力をアップ[{0}](1ターン)＆NPを増やす",
+        "detail": "味方単体の攻撃力をアップ(1ターン)＆NPを増やす",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00300.png",
         "cooldown": 15,
         "functions": [
@@ -1831,7 +1831,7 @@
         "id": 980103,
         "num": 0,
         "name": "オール・アウト・アタック",
-        "detail": "味方全体のQuickカード性能をアップ[{0}](1ターン)＆Artsカード性能をアップ[{0}](1ターン)＆Busterカード性能をアップ[{0}](1ターン)",
+        "detail": "味方全体のQuickカード性能をアップ(1ターン)＆Artsカード性能をアップ(1ターン)＆Busterカード性能をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00317.png",
         "cooldown": 18,
         "functions": [
@@ -1851,7 +1851,7 @@
         "id": 980104,
         "num": 1,
         "name": "エクストラ・エンハンスメント",
-        "detail": "味方単体のExtra Attackカードの性能をアップ[{0}](1ターン)",
+        "detail": "味方単体のExtra Attackカードの性能をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00301.png",
         "cooldown": 9,
         "functions": [
@@ -1901,7 +1901,7 @@
         "id": 980106,
         "num": 0,
         "name": "青春号令",
-        "detail": "味方全体のArtsカード性能をアップ[{0}](1ターン)＆宝具威力をアップ[{0}](1ターン)",
+        "detail": "味方全体のArtsカード性能をアップ(1ターン)＆宝具威力をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00305.png",
         "cooldown": 15,
         "functions": [
@@ -1941,7 +1941,7 @@
         "id": 980108,
         "num": 2,
         "name": "応急早弁",
-        "detail": "味方単体のHPを回復[{0}]＆NPを増やす＆クリティカル威力をアップ[{0}](1ターン)",
+        "detail": "味方単体のHPを回復＆NPを増やす＆クリティカル威力をアップ(1ターン)",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
         "cooldown": 15,
         "functions": [
