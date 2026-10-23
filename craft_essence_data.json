@@ -96706,5 +96706,36 @@
         "detail": "[servantName 705400](バーサーカー)装備時のみ、自身がフィールドにいる間、味方全体のArtsカード性能を8%アップ＆Busterカード性能を8%アップ＆宝具威力を10%アップ"
       }
     ]
+  },
+  {
+    "id": 9312620,
+    "collection_no": 2707,
+    "name": "桃狐半月国傾剣",
+    "original_name": "桃狐半月国傾剣",
+    "type": "servantEquip",
+    "flag": "svtEquipFriendShip",
+    "rarity": 4,
+    "cost": 9,
+    "assets": {
+      "chara_graph": {
+        "9312620": "https://static.atlasacademy.io/JP/CharaGraph/9312620/9312620a.png"
+      },
+      "faces": {
+        "9312620": "https://static.atlasacademy.io/JP/Faces/f_93126200.png"
+      },
+      "equip_face": {
+        "9312620": "https://static.atlasacademy.io/JP/EquipFaces/f_93126200.png"
+      }
+    },
+    "atk_max": 100,
+    "hp_max": 100,
+    "skills": [
+      {
+        "id": 995474,
+        "name": "桃狐半月国傾剣",
+        "original_name": "桃狐半月国傾剣",
+        "detail": "[servantName 406000](ライダー)装備時のみ、自身がフィールドにいる間、味方全体の宝具威力を10%アップ＆〔魅了〕状態特攻状態を20%付与"
+      }
+    ]
   }
 ]

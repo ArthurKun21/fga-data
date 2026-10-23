@@ -13587,6 +13587,26 @@
         "locked": []
       },
       {
+        "id": 2711550,
+        "num": 1,
+        "name": "おかえりキャット A",
+        "detail": "自身の攻撃力をアップ(3ターン▲)＆クリティカル威力をアップ(3ターン)▲＆「攻撃時にスターを獲得する状態」を付与(3ターン)▲＆NPを増やす▲",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00300.png",
+        "cooldown": 7,
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
+        ],
+        "locked": []
+      },
+      {
         "id": 569450,
         "num": 2,
         "name": "呪層・猫日照 B",
@@ -14496,6 +14516,26 @@
         "name": "呪層・廣日照 A",
         "detail": "敵単体のチャージを高確率で減らす ＋ 自身を除く味方全体の宝具威力をアップ(3ターン)▲",
         "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00513.png",
+        "cooldown": 7,
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
+        ],
+        "locked": []
+      },
+      {
+        "id": 2710650,
+        "num": 2,
+        "name": "那須野に謡う EX",
+        "detail": "自身の防御力を大アップ▲(1ターン)＆防御力をアップ(3ターン) ＋ 味方全体の強化解除耐性をアップ(1回・3ターン)▲＆NPを増やす▲",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00400.png",
         "cooldown": 7,
         "functions": [
           {
@@ -28832,6 +28872,15 @@
         "num": 1,
         "name": "常夏日光・日除傘寵愛一神",
         "detail": "敵単体に超強力な〔男性〕特攻攻撃<オーバーチャージで特攻威力アップ>",
+        "card_type": "buster",
+        "targets": [],
+        "locked": []
+      },
+      {
+        "id": 302402,
+        "num": 1,
+        "name": "常夏日光・日除傘寵愛一神",
+        "detail": "敵単体に超強力な〔男性〕特攻攻撃▲<オーバーチャージで特攻威力アップ> ＋ 自身のスキルチャージを1進める▲ ＋ 味方全体のNPを少し増やす▲",
         "card_type": "buster",
         "targets": [],
         "locked": []
@@ -95853,6 +95902,186 @@
           "original_name": "対ﾗｲﾀﾞｰｸﾘﾃｨｶﾙ発生耐性",
           "detail": "自身の〔ライダー〕クラスに対する被クリティカル発生耐性を{{1:Value:m}}%アップする",
           "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00417.png"
+        }
+      },
+      {
+        "num": 103,
+        "skill": {
+          "id": 3033000,
+          "num": 0,
+          "name": "特撃技巧向上",
+          "original_name": "特撃技巧向上",
+          "detail": "自身のクリティカル威力を{{1:Value:m}}%アップする",
+          "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png"
+        }
+      },
+      {
+        "num": 104,
+        "skill": {
+          "id": 3034000,
+          "num": 0,
+          "name": "スキル再装填",
+          "original_name": "スキル再装填",
+          "detail": "自身に「スキル使用後に使用したスキルのチャージを1進める状態」を付与(1回<Lv.6～9だと2回、Lv.10だと3回、スキルごとに1回限り>)",
+          "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00613.png"
+        }
+      }
+    ],
+    "alternate_forms_id": []
+  },
+  {
+    "id": 406000,
+    "collection_no": 483,
+    "name": "タマモアリア",
+    "class_name": "rider",
+    "rarity": 5,
+    "flag": "normal",
+    "assets": {
+      "chara_graph": {
+        "ascension": {
+          "1": "https://static.atlasacademy.io/JP/CharaGraph/406000/406000a@1.png",
+          "2": "https://static.atlasacademy.io/JP/CharaGraph/406000/406000a@2.png",
+          "3": "https://static.atlasacademy.io/JP/CharaGraph/406000/406000b@1.png",
+          "4": "https://static.atlasacademy.io/JP/CharaGraph/406000/406000b@2.png"
+        },
+        "costume": {},
+        "transform_group": {}
+      },
+      "faces": {
+        "ascension": {
+          "1": "https://static.atlasacademy.io/JP/Faces/f_4060000.png",
+          "2": "https://static.atlasacademy.io/JP/Faces/f_4060001.png",
+          "3": "https://static.atlasacademy.io/JP/Faces/f_4060002.png",
+          "4": "https://static.atlasacademy.io/JP/Faces/f_4060003.png"
+        },
+        "costume": {},
+        "transform_group": {}
+      },
+      "commands": {
+        "ascension": {
+          "1": "https://static.atlasacademy.io/JP/Servants/Commands/406000/card_servant_1.png",
+          "2": "https://static.atlasacademy.io/JP/Servants/Commands/406000/card_servant_2.png",
+          "3": "https://static.atlasacademy.io/JP/Servants/Commands/406000/card_servant_3.png"
+        },
+        "costume": {},
+        "transform_group": {}
+      },
+      "status": {
+        "ascension": {
+          "1": "https://static.atlasacademy.io/JP/Servants/Status/406000/status_servant_1.png",
+          "2": "https://static.atlasacademy.io/JP/Servants/Status/406000/status_servant_2.png",
+          "3": "https://static.atlasacademy.io/JP/Servants/Status/406000/status_servant_3.png"
+        },
+        "costume": {},
+        "transform_group": {}
+      }
+    },
+    "gender": "female",
+    "nps": [
+      {
+        "id": 406001,
+        "num": 1,
+        "name": "回眸一笑・空呑海麒",
+        "detail": "敵全体の〔王〕を除く対象に〔反抗禁止〕状態「攻撃時にダメージを受ける状態<精神異常扱い>」を付与(3ターン) ＋ 敵全体の攻撃強化状態を解除＆強力な〔精神異常〕特攻攻撃<オーバーチャージで特攻威力アップ>＆Arts攻撃耐性をダウン(3ターン)",
+        "card_type": "arts",
+        "targets": [],
+        "locked": []
+      }
+    ],
+    "skills": [
+      {
+        "id": 2707550,
+        "num": 1,
+        "name": "恋乙女の変幻無垢 A",
+        "detail": "味方全体のQuickカード性能をアップ(3ターン)＆Artsカード性能をアップ(3ターン) ＋ 自身に〔魅了〕特攻状態を付与(3ターン)＆無敵状態を付与(2回・3ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00314.png",
+        "cooldown": 8,
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
+        ],
+        "locked": []
+      },
+      {
+        "id": 2708450,
+        "num": 2,
+        "name": "呪層・狂奔歌 B",
+        "detail": "敵全体に魅了状態を付与(1ターン)＆〔混乱〕状態「毎ターン低確率でスキル封印を付与する状態」を付与(3ターン) ＋ 味方全体の攻撃力をアップ(3ターン)＆クリティカル威力をアップ(3ターン) ＋ スターを大量獲得",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00509.png",
+        "cooldown": 8,
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
+        ],
+        "locked": []
+      },
+      {
+        "id": 2709650,
+        "num": 3,
+        "name": "都市抱擁・無限恋 EX",
+        "detail": "味方全体に宝具使用時のチャージ段階を1段階引き上げる状態を付与(1回・3ターン)＆宝具威力をアップ(3ターン)＆HPを回復 ＋ 自身のNPを増やす ＋ 〔都市〕のフィールドにおいてのみ、自身のNPを増やす",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00313.png",
+        "cooldown": 8,
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
+        ],
+        "locked": []
+      }
+    ],
+    "append_passives": [
+      {
+        "num": 100,
+        "skill": {
+          "id": 3001000,
+          "num": 0,
+          "name": "追撃技巧向上",
+          "original_name": "追撃技巧向上",
+          "detail": "自身のExtra Attackカードの性能を{{1:Value:m}}%アップする",
+          "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00301.png"
+        }
+      },
+      {
+        "num": 101,
+        "skill": {
+          "id": 3002000,
+          "num": 0,
+          "name": "魔力装填",
+          "original_name": "魔力装填",
+          "detail": "自身のNPを{{1:Value:y}}%チャージした状態でバトルを開始する",
+          "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00601.png"
+        }
+      },
+      {
+        "num": 102,
+        "skill": {
+          "id": 3013000,
+          "num": 0,
+          "name": "対アルターエゴ攻撃適性",
+          "original_name": "対アルターエゴ攻撃適性",
+          "detail": "自身の〔アルターエゴ〕クラスに対する攻撃力を{{1:Value:m}}%アップする",
+          "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00300.png"
         }
       },
       {
