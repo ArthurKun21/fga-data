@@ -96737,5 +96737,36 @@
         "detail": "[servantName 406000](ライダー)装備時のみ、自身がフィールドにいる間、味方全体の宝具威力を10%アップ＆〔魅了〕状態特攻状態を20%付与"
       }
     ]
+  },
+  {
+    "id": 9312630,
+    "collection_no": 2708,
+    "name": "FGO THE DRAMALOGUE",
+    "original_name": "FGO THE DRAMALOGUE",
+    "type": "servantEquip",
+    "flag": "svtEquipCampaign",
+    "rarity": 4,
+    "cost": 9,
+    "assets": {
+      "chara_graph": {
+        "9312630": "https://static.atlasacademy.io/JP/CharaGraph/9312630/9312630a.png"
+      },
+      "faces": {
+        "9312630": "https://static.atlasacademy.io/JP/Faces/f_93126300.png"
+      },
+      "equip_face": {
+        "9312630": "https://static.atlasacademy.io/JP/EquipFaces/f_93126300.png"
+      }
+    },
+    "atk_max": 100,
+    "hp_max": 100,
+    "skills": [
+      {
+        "id": 995475,
+        "name": "FGO THE DRAMALOGUE",
+        "original_name": "FGO THE DRAMALOGUE",
+        "detail": "クエストクリア時に得られるマスターEXPを50増やす"
+      }
+    ]
   }
 ]
