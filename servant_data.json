@@ -168,7 +168,9 @@
           "3": "https://static.atlasacademy.io/JP/Faces/f_6007102.png",
           "4": "https://static.atlasacademy.io/JP/Faces/f_6007103.png"
         },
-        "costume": {},
+        "costume": {
+          "600740": "https://static.atlasacademy.io/JP/Faces/f_6007400.png"
+        },
         "transform_group": {}
       },
       "commands": {
@@ -177,7 +179,9 @@
           "2": "https://static.atlasacademy.io/JP/Servants/Commands/600710/card_servant_2.png",
           "3": "https://static.atlasacademy.io/JP/Servants/Commands/600710/card_servant_3.png"
         },
-        "costume": {},
+        "costume": {
+          "600740": "https://static.atlasacademy.io/JP/Servants/Commands/600710/card_servant_11.png"
+        },
         "transform_group": {}
       },
       "status": {
@@ -186,7 +190,9 @@
           "2": "https://static.atlasacademy.io/JP/Servants/Status/600710/status_servant_2.png",
           "3": "https://static.atlasacademy.io/JP/Servants/Status/600710/status_servant_3.png"
         },
-        "costume": {},
+        "costume": {
+          "600740": "https://static.atlasacademy.io/JP/Servants/Status/600710/status_servant_11.png"
+        },
         "transform_group": {}
       }
     },
@@ -18653,7 +18659,9 @@
           "3": "https://static.atlasacademy.io/JP/CharaGraph/600700/600700b@1.png",
           "4": "https://static.atlasacademy.io/JP/CharaGraph/600700/600700b@2.png"
         },
-        "costume": {},
+        "costume": {
+          "600730": "https://static.atlasacademy.io/JP/CharaGraph/600730/600730a.png"
+        },
         "transform_group": {}
       },
       "faces": {
@@ -18663,7 +18671,9 @@
           "3": "https://static.atlasacademy.io/JP/Faces/f_6007002.png",
           "4": "https://static.atlasacademy.io/JP/Faces/f_6007003.png"
         },
-        "costume": {},
+        "costume": {
+          "600730": "https://static.atlasacademy.io/JP/Faces/f_6007300.png"
+        },
         "transform_group": {}
       },
       "commands": {
@@ -18672,7 +18682,9 @@
           "2": "https://static.atlasacademy.io/JP/Servants/Commands/600700/card_servant_2.png",
           "3": "https://static.atlasacademy.io/JP/Servants/Commands/600700/card_servant_3.png"
         },
-        "costume": {},
+        "costume": {
+          "600730": "https://static.atlasacademy.io/JP/Servants/Commands/600700/card_servant_11.png"
+        },
         "transform_group": {}
       },
       "status": {
@@ -18681,7 +18693,9 @@
           "2": "https://static.atlasacademy.io/JP/Servants/Status/600700/status_servant_2.png",
           "3": "https://static.atlasacademy.io/JP/Servants/Status/600700/status_servant_3.png"
         },
-        "costume": {},
+        "costume": {
+          "600730": "https://static.atlasacademy.io/JP/Servants/Status/600700/status_servant_11.png"
+        },
         "transform_group": {}
       }
     },
