@@ -96768,5 +96768,36 @@
         "detail": "クエストクリア時に得られるマスターEXPを50増やす"
       }
     ]
+  },
+  {
+    "id": 9312600,
+    "collection_no": 2709,
+    "name": "祝花の汀",
+    "original_name": "祝花の汀",
+    "type": "servantEquip",
+    "flag": "svtEquipCampaign",
+    "rarity": 4,
+    "cost": 9,
+    "assets": {
+      "chara_graph": {
+        "9312600": "https://static.atlasacademy.io/JP/CharaGraph/9312600/9312600a.png"
+      },
+      "faces": {
+        "9312600": "https://static.atlasacademy.io/JP/Faces/f_93126000.png"
+      },
+      "equip_face": {
+        "9312600": "https://static.atlasacademy.io/JP/EquipFaces/f_93126000.png"
+      }
+    },
+    "atk_max": 100,
+    "hp_max": 100,
+    "skills": [
+      {
+        "id": 995461,
+        "name": "祝花の汀",
+        "original_name": "祝花の汀",
+        "detail": "クエストクリア時に得られるマスターEXPを50増やす"
+      }
+    ]
   }
 ]
