@@ -66399,6 +66399,26 @@
           }
         ],
         "locked": []
+      },
+      {
+        "id": 923551,
+        "num": 3,
+        "name": "日月 A+",
+        "detail": "自身に無敵状態を付与(2回・3ターン)＆NP獲得量をアップ(3ターン)＆弱体無効状態を付与(3回・3ターン)▲ ＋ 味方全体に〔天の力を持つ敵〕特攻状態を付与(3ターン)▲",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00403.png",
+        "cooldown": 8,
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
+        ],
+        "locked": []
       }
     ],
     "append_passives": [
