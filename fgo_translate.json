@@ -2865,7 +2865,7 @@
     },
     "[servantName 705500](バーサーカー)装備時のみ、自身の宝具威力を30%アップ ＋ 自身がやられた時にスターを20個獲得": {
       "jp": "[servantName 705500](バーサーカー)装備時のみ、自身の宝具威力を30%アップ ＋ 自身がやられた時にスターを20個獲得",
-      "cn": "[servantName 705500](狂战士)装备时,自身的宝具威力提升30%＋自身战败退场时获得20个暴击星",
+      "cn": "松永久秀(Berserker)装备时，自身的宝具威力提升30% ＋ 自身退场时获得20个暴击星",
       "tw": "[servantName 705500](Berserker)裝備時，自身的寶具威力提升30%＋自身戰敗退場時獲得20個爆擊星",
       "na": "Increase your NP Strength by 30% + Gain 20 C. Stars when you are defeated only if [servantName 705500] (Berserker) is equipped with this Craft Essence",
       "kr": "[servantName 705500](버서커) 장착 시 자신의 보구 위력 30% UP + 자신이 쓰러졌을 때 스타 20개 획득"
@@ -6008,7 +6008,7 @@
     },
     "いざ、尋常に川中島！？": {
       "jp": "いざ、尋常に川中島！？",
-      "cn": "来吧,堂堂正正地决战川中岛！？",
+      "cn": "堂堂正正，川中岛决胜？！",
       "tw": "來吧，堂堂正正地決戰川中島！？",
       "na": "Now, a Fair and Square Showdown at Kawanakajima!?",
       "kr": "자, 정정당당하게 가와나카지마에서!?"
@@ -34120,7 +34120,7 @@
     },
     "帰路への旗印": {
       "jp": "帰路への旗印",
-      "cn": "归途的旗印",
+      "cn": "指引归途的旗印",
       "tw": "歸途的旗印",
       "na": "Banner for the Road Home",
       "kr": "귀로의 깃발"
@@ -42110,7 +42110,7 @@
     },
     "概念礼装EXPカード：ヤマタイガールズ！": {
       "jp": "概念礼装EXPカード：ヤマタイガールズ！",
-      "cn": "概念礼装经验卡：邪马台女孩们！",
+      "cn": "概念礼装EXP卡：邪马台GIRLS！",
       "tw": "概念禮裝EXP卡：邪馬臺女孩們！",
       "na": "CE EXP Card: Yamatai Girls!",
       "kr": "개념예장 EXP 카드: 야마타이 걸즈!"
@@ -42180,7 +42180,7 @@
     },
     "概念礼装EXPカード：爆・DAN・ジョー！": {
       "jp": "概念礼装EXPカード：爆・DAN・ジョー！",
-      "cn": "概念礼装经验卡：爆·DAN·JOE！",
+      "cn": "概念礼装EXP卡：炸·DAN·正！",
       "tw": "概念禮裝EXP卡：爆．DAN．JOE！",
       "na": "CE EXP Card: Bomb DAN Joe!",
       "kr": "개념예장 EXP 카드: 폭・DAN・조!"
@@ -43426,7 +43426,7 @@
     },
     "泡沫の遭逢": {
       "jp": "泡沫の遭逢",
-      "cn": "泡沫的邂逅",
+      "cn": "泡沫的遭逢",
       "tw": "泡沫的邂逅",
       "na": "Fleeting Encounter",
       "kr": "포말의 조우"
@@ -47143,7 +47143,7 @@
     },
     "秘湯の来訪者": {
       "jp": "秘湯の来訪者",
-      "cn": "秘汤的来客",
+      "cn": "秘汤的来访者",
       "tw": "秘湯的來客",
       "na": "Visitor of the Secret Hot Spring",
       "kr": "비탕의 방문자"
