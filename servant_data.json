@@ -96698,5 +96698,193 @@
       }
     ],
     "alternate_forms_id": []
+  },
+  {
+    "id": 2501700,
+    "collection_no": 487,
+    "name": "ダイナマイト利休",
+    "class_name": "foreigner",
+    "rarity": 5,
+    "flag": "normal",
+    "assets": {
+      "chara_graph": {
+        "ascension": {
+          "1": "https://static.atlasacademy.io/JP/CharaGraph/2501700/2501700a@1.png",
+          "2": "https://static.atlasacademy.io/JP/CharaGraph/2501700/2501700a@2.png",
+          "3": "https://static.atlasacademy.io/JP/CharaGraph/2501700/2501700b@1.png",
+          "4": "https://static.atlasacademy.io/JP/CharaGraph/2501700/2501700b@2.png"
+        },
+        "costume": {
+          "2501730": "https://static.atlasacademy.io/JP/CharaGraph/2501730/2501730a.png"
+        },
+        "transform_group": {}
+      },
+      "faces": {
+        "ascension": {
+          "1": "https://static.atlasacademy.io/JP/Faces/f_25017000.png",
+          "2": "https://static.atlasacademy.io/JP/Faces/f_25017001.png",
+          "3": "https://static.atlasacademy.io/JP/Faces/f_25017002.png",
+          "4": "https://static.atlasacademy.io/JP/Faces/f_25017003.png"
+        },
+        "costume": {
+          "2501730": "https://static.atlasacademy.io/JP/Faces/f_25017300.png"
+        },
+        "transform_group": {}
+      },
+      "commands": {
+        "ascension": {
+          "1": "https://static.atlasacademy.io/JP/Servants/Commands/2501700/card_servant_1.png",
+          "2": "https://static.atlasacademy.io/JP/Servants/Commands/2501700/card_servant_2.png",
+          "3": "https://static.atlasacademy.io/JP/Servants/Commands/2501700/card_servant_3.png"
+        },
+        "costume": {
+          "2501730": "https://static.atlasacademy.io/JP/Servants/Commands/2501700/card_servant_11.png"
+        },
+        "transform_group": {}
+      },
+      "status": {
+        "ascension": {
+          "1": "https://static.atlasacademy.io/JP/Servants/Status/2501700/status_servant_1.png",
+          "2": "https://static.atlasacademy.io/JP/Servants/Status/2501700/status_servant_2.png",
+          "3": "https://static.atlasacademy.io/JP/Servants/Status/2501700/status_servant_3.png"
+        },
+        "costume": {
+          "2501730": "https://static.atlasacademy.io/JP/Servants/Status/2501700/status_servant_11.png"
+        },
+        "transform_group": {}
+      }
+    },
+    "gender": "female",
+    "nps": [
+      {
+        "id": 2501701,
+        "num": 1,
+        "name": "渾然一体",
+        "detail": "敵単体の防御強化状態を解除＆超強力な〔人の力を持つ敵〕特攻攻撃<オーバーチャージで特攻威力アップ>＆Buster攻撃耐性をダウン(3ターン) ＋ スターを獲得",
+        "card_type": "buster",
+        "targets": [],
+        "locked": []
+      }
+    ],
+    "skills": [
+      {
+        "id": 2727650,
+        "num": 1,
+        "name": "セクシー＆ビューティ EX",
+        "detail": "自身のBusterカード性能をアップ(3ターン)＆攻撃力をアップ(3ターン)＆無敵状態を付与(2回・3ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00306.png",
+        "cooldown": 8,
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
+        ],
+        "locked": []
+      },
+      {
+        "id": 2728550,
+        "num": 2,
+        "name": "悠遠なる黒 A",
+        "detail": "敵全体のチャージを減らす ＋ 味方全体のNPを増やす ＋ 自身のNPを増やす＆「Buster攻撃時のダメージ前に対象に呪い状態を付与(3ターン)する状態」を付与(3ターン)＆〔呪い〕特攻状態を付与<対象の〔呪い〕状態が多いほど対象に対して特攻威力アップ(最大10個)>(3ターン)",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00513.png",
+        "cooldown": 9,
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
+        ],
+        "locked": []
+      },
+      {
+        "id": 2729450,
+        "num": 3,
+        "name": "Re/Q B",
+        "detail": "味方単体のスキルチャージを1進める＆Busterカードのスター集中度をアップ(3ターン)＆クリティカル威力をアップ(3ターン) ＋ スターを獲得",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00609.png",
+        "cooldown": 8,
+        "functions": [
+          {
+            "target": "TargetOne",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
+        ],
+        "locked": []
+      }
+    ],
+    "append_passives": [
+      {
+        "num": 100,
+        "skill": {
+          "id": 3001000,
+          "num": 0,
+          "name": "追撃技巧向上",
+          "original_name": "追撃技巧向上",
+          "detail": "自身のExtra Attackカードの性能を{{1:Value:m}}%アップする",
+          "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00301.png"
+        }
+      },
+      {
+        "num": 101,
+        "skill": {
+          "id": 3002000,
+          "num": 0,
+          "name": "魔力装填",
+          "original_name": "魔力装填",
+          "detail": "自身のNPを{{1:Value:y}}%チャージした状態でバトルを開始する",
+          "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00601.png"
+        }
+      },
+      {
+        "num": 102,
+        "skill": {
+          "id": 3009000,
+          "num": 0,
+          "name": "対バーサーカー攻撃適性",
+          "original_name": "対バーサーカー攻撃適性",
+          "detail": "自身の〔バーサーカー〕クラスに対する攻撃力を{{1:Value:m}}%アップする",
+          "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00300.png"
+        }
+      },
+      {
+        "num": 103,
+        "skill": {
+          "id": 3033000,
+          "num": 0,
+          "name": "特撃技巧向上",
+          "original_name": "特撃技巧向上",
+          "detail": "自身のクリティカル威力を{{1:Value:m}}%アップする",
+          "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png"
+        }
+      },
+      {
+        "num": 104,
+        "skill": {
+          "id": 3034000,
+          "num": 0,
+          "name": "スキル再装填",
+          "original_name": "スキル再装填",
+          "detail": "自身に「スキル使用後に使用したスキルのチャージを1進める状態」を付与(1回<Lv.6～9だと2回、Lv.10だと3回、スキルごとに1回限り>)",
+          "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00613.png"
+        }
+      }
+    ],
+    "alternate_forms_id": []
   }
 ]
