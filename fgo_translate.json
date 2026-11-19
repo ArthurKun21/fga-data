@@ -63787,7 +63787,7 @@
     "自身のQuickカード性能をアップ(3ターン)▲＆Busterカード性能をアップ(3ターン▲)＆宝具威力をアップ(3ターン▲)": {
       "jp": "自身のQuickカード性能をアップ(3ターン)▲＆Busterカード性能をアップ(3ターン▲)＆宝具威力をアップ(3ターン▲)",
       "cn": "自身的迅指令卡性能提升(3回合)▲＆力指令卡性能提升(3回合▲)＆宝具威力提升(3回合▲)",
-      "tw": "自身Quick指令卡性能提升(3回合)▲＆Buster指令卡性能提升(3回合▲)＆寶具威力提升(3回合▲)",
+      "tw": "自身的Quick指令卡性能提升(3回合)▲＆Buster指令卡性能提升(3回合▲)＆寶具威力提升(3回合▲)",
       "na": "increase your own Quick Card effectiveness (3 turns)▲ & increase Buster Card effectiveness (3 turns▲) & increase NP Strength (3 turns▲)",
       "kr": "자신의 퀵 카드 성능 UP(3턴)▲&자신의 버스터 카드 성능 UP(3턴)▲)&자신의 보구 위력 UP(3턴▲)"
     },
@@ -66148,56 +66148,56 @@
       "cn": "自身提供的生命值回复量提升10%[最大解放]",
       "tw": "自身提供的HP恢復量提升10%[最大解放]",
       "na": "Increase Healing effectiveness by 10% for yourself [MAX]",
-      "kr": "자신의 주는 HP 회복량을 10% UP[최대해방]"
+      "kr": "자신이 주는 HP 회복량 10% UP[최대해방]"
     },
     "自身の与HP回復量を10%アップ＆NP獲得量を5%アップ": {
       "jp": "自身の与HP回復量を10%アップ＆NP獲得量を5%アップ",
       "cn": "自身提供的生命值回复量提升10%＆宝具值获得量提升5%",
       "tw": "自身提供的HP恢復量提升10%＆NP獲得量提升5%",
       "na": "Increase HP Recovery amount by 10% & NP Gain by 5% for yourself",
-      "kr": "자신의 주는 HP 회복량 10% UP&NP 획득량 5% UP"
+      "kr": "자신이 주는 HP 회복량 10% UP&NP 획득량 5% UP"
     },
     "自身の与HP回復量を15%アップ": {
       "jp": "自身の与HP回復量を15%アップ",
       "cn": "自身提供的生命值回复量提升15%",
       "tw": "自身提供的HP恢復量提升15%",
       "na": "Increase your Healing effectiveness by 15%",
-      "kr": "자신의 주는 HP 회복량 15% UP"
+      "kr": "자신이 주는 HP 회복량 15% UP"
     },
     "自身の与HP回復量を15%アップ＆NP獲得量を10%アップ[最大解放]": {
       "jp": "自身の与HP回復量を15%アップ＆NP獲得量を10%アップ[最大解放]",
       "cn": "自身提供的生命值回复量提升15%＆宝具值获得量提升10%[最大解放]",
       "tw": "自身提供的HP恢復量提升15%＆NP獲得量提升10%[最大解放]",
       "na": "Increase HP Recovery amount by 15% & NP Gain by 10% for yourself [MAX]",
-      "kr": "자신의 주는 HP 회복량 15% UP&NP 획득량 10% UP[최대해방]"
+      "kr": "자신이 주는 HP 회복량 15% UP&NP 획득량 10% UP[최대해방]"
     },
     "自身の与HP回復量を20%アップ[最大解放]": {
       "jp": "自身の与HP回復量を20%アップ[最大解放]",
       "cn": "自身提供的生命值回复量提升20%[最大解放]",
       "tw": "自身提供的HP恢復量提升20%[最大解放]",
       "na": "Increase your Healing effectiveness by 20% [MAX]",
-      "kr": "자신의 주는 HP 회복량 20% UP[최대해방]"
+      "kr": "자신이 주는 HP 회복량 20% UP[최대해방]"
     },
     "自身の与HP回復量を5%アップ": {
       "jp": "自身の与HP回復量を5%アップ",
       "cn": "自身提供的生命值回复量提升5%",
       "tw": "自身提供的HP恢復量提升5%",
       "na": "Increase Healing effectiveness by 5% for yourself",
-      "kr": "자신의 주는 HP 회복량을 5% UP"
+      "kr": "자신이 주는 HP 회복량 5% UP"
     },
     "自身の与回復量をアップ(1ターン)": {
       "jp": "自身の与回復量をアップ(1ターン)",
       "cn": "自身提供的生命值回复量提升(1回合)",
       "tw": "自身提供的HP恢復量提升(1回合)",
       "na": "Increase your Healing effectiveness (1 turn)",
-      "kr": "자신의 주는 회복량 UP(1턴)"
+      "kr": "자신이 주는 회복량 UP(1턴)"
     },
     "自身の与回復量をアップ(3ターン)▲＆NPを増やす▲ ＋ 自身を除く味方全体の宝具威力をアップ(3ターン)▲": {
       "jp": "自身の与回復量をアップ(3ターン)▲＆NPを増やす▲ ＋ 自身を除く味方全体の宝具威力をアップ(3ターン)▲",
       "cn": "自身提供的生命值回复量提升(3回合)▲＆宝具值增加▲＋除自身以外的己方全体宝具威力提升(3回合)▲",
       "tw": "自身提供的HP恢復量提升(3回合)▲＆NP增加▲＋除自身以外的我方全體寶具威力提升(3回合)▲",
       "na": "Increase Healing effectiveness (3 turns) ▲ & increase NP Gauge ▲ for yourself + Increase NP Strength for all allies excluding yourself (3 turns) ▲",
-      "kr": "자신의 주는 회복량 UP(3턴)▲&NP 증가▲ + 자신을 제외한 아군 전체의 보구 위력 UP(3턴)▲"
+      "kr": "자신이 주는 회복량 UP(3턴)▲&NP 증가▲ + 자신을 제외한 아군 전체의 보구 위력 UP(3턴)▲"
     },
     "自身の人格を入れ替える＆最大HP大アップ▲＆HP全回復＆Busterカード性能アップ▲<オーバーチャージで効果アップ>": {
       "jp": "自身の人格を入れ替える＆最大HP大アップ▲＆HP全回復＆Busterカード性能アップ▲<オーバーチャージで効果アップ>",
