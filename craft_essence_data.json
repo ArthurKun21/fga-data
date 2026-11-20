@@ -97181,5 +97181,36 @@
         "detail": "[servantName 2501700](フォーリナー)装備時のみ、自身がフィールドにいる間、味方全体のBusterカード性能を10%アップ＆〔人の力を持つ敵〕特攻状態を10%付与"
       }
     ]
+  },
+  {
+    "id": 9312680,
+    "collection_no": 2720,
+    "name": "魔法使いの夜",
+    "original_name": "魔法使いの夜",
+    "type": "servantEquip",
+    "flag": "svtEquipCampaign",
+    "rarity": 4,
+    "cost": 9,
+    "assets": {
+      "chara_graph": {
+        "9312680": "https://static.atlasacademy.io/JP/CharaGraph/9312680/9312680a.png"
+      },
+      "faces": {
+        "9312680": "https://static.atlasacademy.io/JP/Faces/f_93126800.png"
+      },
+      "equip_face": {
+        "9312680": "https://static.atlasacademy.io/JP/EquipFaces/f_93126800.png"
+      }
+    },
+    "atk_max": 100,
+    "hp_max": 100,
+    "skills": [
+      {
+        "id": 995501,
+        "name": "魔法使いの夜",
+        "original_name": "魔法使いの夜",
+        "detail": "クエストクリア時に得られるマスターEXPを50増やす"
+      }
+    ]
   }
 ]

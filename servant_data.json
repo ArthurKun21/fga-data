@@ -576,6 +576,26 @@
           }
         ],
         "locked": []
+      },
+      {
+        "id": 2352476,
+        "num": 1,
+        "name": "ミルキーウェイを探して EX",
+        "detail": "自身に〔魔弾〕状態を10個付与▲<〔魔弾〕状態は最大20個まで付与可能、Quick、Arts、Buster通常攻撃時に〔魔弾〕状態を1つ消費して攻撃力をアップ(1回)＆Extra攻撃時に〔魔弾〕状態をすべて消費して個数分攻撃力をアップ(1回)>＆無敵状態を付与(1ターン)＆Artsカード性能をアップ(3ターン)＆NPを増やす▲",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00813.png",
+        "cooldown": 6,
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
+        ],
+        "locked": []
       }
     ],
     "append_passives": [],
@@ -83695,6 +83715,26 @@
           }
         ],
         "locked": []
+      },
+      {
+        "id": 2352451,
+        "num": 1,
+        "name": "魔弾装填 B+",
+        "detail": "自身に〔魔弾〕状態を5個付与▲<〔魔弾〕状態は最大20個まで付与可能、Quick、Arts、Buster通常攻撃時に〔魔弾〕状態を1つ消費して攻撃力をアップ(1回)＆Extra攻撃時に〔魔弾〕状態をすべて消費して個数分攻撃力をアップ(1回)>＆NPを増やす▲ ＋ スターを獲得",
+        "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00813.png",
+        "cooldown": 4,
+        "functions": [
+          {
+            "target": "TargetAll",
+            "act_select_index": null,
+            "choice2": null,
+            "choice3": null,
+            "np2": null,
+            "np3": null,
+            "transform": null
+          }
+        ],
+        "locked": []
       }
     ],
     "append_passives": [
@@ -83997,6 +84037,15 @@
         "num": 1,
         "name": "童話の怪物、月の油",
         "detail": "自身に必中状態を付与(1ターン)＆〔人間〕特攻状態を付与(1ターン) ＋ 敵全体に強力な〔人の力を持つ敵〕特攻攻撃<オーバーチャージで特攻威力アップ>＆恐怖状態を付与(3ターン)＆クリティカル発生率をダウン(3ターン)",
+        "card_type": "quick",
+        "targets": [],
+        "locked": []
+      },
+      {
+        "id": 505502,
+        "num": 1,
+        "name": "童話の怪物、月の油",
+        "detail": "自身に必中状態を付与(1ターン)＆〔人間〕特攻状態を付与(1ターン)＆〔秩序〕特攻状態を付与(1ターン)▲＆クリティカル威力をアップ(3ターン)▲ ＋ 敵全体に強力な〔人の力を持つ敵〕特攻攻撃▲<オーバーチャージで特攻威力アップ>＆恐怖状態を付与(3ターン)＆クリティカル発生率をダウン(3ターン)",
         "card_type": "quick",
         "targets": [],
         "locked": []
