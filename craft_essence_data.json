@@ -97212,5 +97212,36 @@
         "detail": "クエストクリア時に得られるマスターEXPを50増やす"
       }
     ]
+  },
+  {
+    "id": 9312690,
+    "collection_no": 2721,
+    "name": "坂の上の魔女",
+    "original_name": "坂の上の魔女",
+    "type": "servantEquip",
+    "flag": "svtEquipCampaign",
+    "rarity": 4,
+    "cost": 9,
+    "assets": {
+      "chara_graph": {
+        "9312690": "https://static.atlasacademy.io/JP/CharaGraph/9312690/9312690a.png"
+      },
+      "faces": {
+        "9312690": "https://static.atlasacademy.io/JP/Faces/f_93126900.png"
+      },
+      "equip_face": {
+        "9312690": "https://static.atlasacademy.io/JP/EquipFaces/f_93126900.png"
+      }
+    },
+    "atk_max": 100,
+    "hp_max": 100,
+    "skills": [
+      {
+        "id": 995502,
+        "name": "坂の上の魔女",
+        "original_name": "坂の上の魔女",
+        "detail": "クエストクリア時に得られる魔術礼装EXPを50増やす"
+      }
+    ]
   }
 ]
